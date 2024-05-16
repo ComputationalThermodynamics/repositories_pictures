@@ -1,1 +1,1 @@
-Test message to be displayed on MAGEMinApp
+<BR> Reminder: Don't forget to properly cite the references used to create the diagrams by using the 'export references' button!
