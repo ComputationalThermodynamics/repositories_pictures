@@ -1,2 +1,2 @@
 An external (and unwanted) update of NLopt_jll broke all MAGEMinApp versions up to 0.6.2... 
-Make sure you use the last version of the app 'add MAGEMinApp@0.6.3'.
+Make sure you use the last version of the app 'add MAGEMinApp@0.6.4'.
