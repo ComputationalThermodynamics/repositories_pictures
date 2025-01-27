@@ -1,1 +1,1 @@
-Make sure you use the last version of the app 'add MAGEMinApp@0.6.7'.
+Make sure you use the last version of the app 'add MAGEMinApp@0.6.8'.
