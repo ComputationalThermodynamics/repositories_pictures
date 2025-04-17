@@ -1,1 +1,1 @@
-Last version: 'MAGEMinApp@0.8.7' (added option to isopleths in vol. fraction) 
+Last version: 'MAGEMinApp@0.8.7' (added option to display isopleths in vol. fraction) 
