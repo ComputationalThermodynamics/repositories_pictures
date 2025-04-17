@@ -1,1 +1,1 @@
-Make sure you use the last version of the app 'add MAGEMinApp@0.8.6' (Julia v1.10+)
+Last version: 'MAGEMinApp@0.8.7' (added option to isopleths in vol. fraction) 
