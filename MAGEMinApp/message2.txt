@@ -1,1 +1,1 @@
-Last version: 'MAGEMinApp@0.8.8' (e.g., display isomode excluding excess fluid) 
+Last version: 'MAGEMinApp@0.8.9' (e.g., fixes issue with ume db on Windows) 
