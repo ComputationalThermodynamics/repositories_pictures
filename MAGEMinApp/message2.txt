@@ -1,1 +1,1 @@
-Last version: 'MAGEMinApp@0.9.0'
+Last version: 'MAGEMinApp@0.9.1' (Julia 1.10+)
