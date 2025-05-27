@@ -1,1 +1,1 @@
-Reminder: Don't forget to properly cite the references used to create the diagrams by using the 'export references' buttons!
+Warning: ortho-amphibole (oamp - mpe and mbe db) has a wrong DQF. This will be corrected in the next release!
