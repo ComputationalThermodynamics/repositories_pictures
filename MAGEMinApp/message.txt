@@ -1,1 +1,1 @@
-Warning: ortho-amphibole (oamp - mpe and mbe db) has a wrong DQF. This will be corrected in the next release!
+Warning: Solidus H2O-saturated + Boost mode + Igneous database (G25 <- H18) yields artifact. Fix to come
