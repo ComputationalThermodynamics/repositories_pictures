@@ -1,1 +1,1 @@
-Warning: Solidus H2O-saturated + Boost mode + Igneous database (G25 <- H18) yields artifact. Fix to come
+ 
