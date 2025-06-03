@@ -1,1 +1,1 @@
-Last version: 'MAGEMinApp@0.9.6' (Julia 1.10+)
+Last version - 03/06/25 - MAGEMinApp@0.9.7 - Julia 1.10+
