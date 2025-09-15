@@ -1,1 +1,1 @@
-Last version - 13/09/25 - MAGEMinApp@1.1.2 - Julia 1.10+
+Last version - 15/09/25 - MAGEMinApp@1.1.2 - Julia 1.10+
