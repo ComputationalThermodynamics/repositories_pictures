@@ -1,1 +1,1 @@
- 
+Seismic velocities for SB24 database are wrong when O2 is stable. This will be corrected in the future release.
