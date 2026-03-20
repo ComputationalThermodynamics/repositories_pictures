@@ -1,1 +1,1 @@
-
+Pseudo-isentropic fractional melting/crystallization is currently broken. Will be fixed in the next update.
