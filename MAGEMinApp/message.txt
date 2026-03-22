@@ -1,1 +1,1 @@
-Pseudo-isentropic fractional melting/crystallization is currently broken. Will be fixed in the next update.
+Pseudo-isentropic fractional melting/crystallization is fixed in v1.3.8. Make sure you update!
