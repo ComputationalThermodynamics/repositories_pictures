@@ -1,1 +1,1 @@
-Pseudo-isentropic fractional melting/crystallization is fixed in v1.3.8. Make sure you update!
+v1.3.9 fixes oxygen buffer for PTX paths
