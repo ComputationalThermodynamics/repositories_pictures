@@ -1,1 +1,1 @@
-v1.4.1 adds trace-element partitioning with PTX path (beta)
+v1.4.2 adds trace-element partitioning with PTX path (beta)
