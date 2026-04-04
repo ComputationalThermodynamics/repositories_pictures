@@ -1,1 +1,1 @@
-v1.4.0 fixes activity buffers for PTX paths
+v1.4.1 adds trace-element partitioning with PTX path (beta)
