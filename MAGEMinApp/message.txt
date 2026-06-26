@@ -1,1 +1,1 @@
-v1.5.2 introduces Warr (2021) mineral abbreviations
+v1.5.3 introduces IntersecT for quantitative isopleth thermobarometry by S. Nerone (doi:10.1016/j.cageo.2025.105949)
