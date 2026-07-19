@@ -1,1 +1,1 @@
-v1.5.4 introduces IntersecT for quantitative isopleth thermobarometry by S. Nerone (doi:10.1016/j.cageo.2025.105949)
+v1.5.8 improves performances by factor >2 at suprasolidus conditions
