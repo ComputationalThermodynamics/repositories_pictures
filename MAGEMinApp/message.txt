@@ -1,1 +1,1 @@
-v1.7.1 Adds Monte Carlo analysis for phase diagrams
+Warning! the SiO2wt% switch from mafic to intermediate for TE OL12 is wrong. Correction in next release.
