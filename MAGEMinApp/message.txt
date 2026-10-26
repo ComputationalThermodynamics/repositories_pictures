@@ -1,1 +1,1 @@
-Warning! the SiO2wt% switch from mafic to intermediate for TE OL12 is wrong. Correction in next release.
+Warning! SiO2wt% switch from mafic to intermediate for TE OL12 is fixed in v1.7.7
